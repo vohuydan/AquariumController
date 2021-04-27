@@ -20,3 +20,4 @@ Data Logging: The code for ESP32 keeps track of 8 continuous days. Firebase will
 
 4/27/2021
 Created repo. ESP32 is logging data and uploading to Firebase at every half hour interval. 
+![firebase](https://user-images.githubusercontent.com/77210680/116316478-dd864880-a766-11eb-858b-f6c90a4ecdb7.PNG)
