@@ -1,6 +1,6 @@
 This repo contains the work of a custom Aquarium Controller.
 
-Objective and Purpose
+# Objective and Purpose
 
 The objective of this project is to create a tool to log pH of an reef tank and have the data in the cloud for viewing at any location. 
 
